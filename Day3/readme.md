@@ -8,7 +8,9 @@ Q1: Create a program which takes <b>Two Numbers as input</b> and returns <b>Sum<
 Q2: Create a program which takes input from user and makes a list from those input. (Take minumum of 3 inputs for making a good list)
 
 Q3: I am making a program for a company which stores 1:<b>E-Mail Address</b> 2:<b>Date of Birth</b> in their database. Make a program which stores this following information in
-    <b>Suitable Data Structures</b>. <i>Hint: E-mail address can change anytime, but date of birth is a fixed data. So choose the data structure for storing both information accordingly.</i>
+    <b>Suitable Data Structures</b>. <i>Hint: E-mail address can change anytime, but date of birth is a fixed data. So choose the data structure for storing both information accordingly.</i> (Take any sample data to make the program)
+    
+    
     
 <h2>Submission Guideliines</h2>
     
