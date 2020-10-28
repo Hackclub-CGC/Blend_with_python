@@ -12,12 +12,4 @@ Q3: I am making a program for a company which stores 1:<b>E-Mail Address</b> 2:<
     
 <h2>Submission Guideliines</h2>
     
-Make a folder of your name in the Day 3 folder and upload your programs in it.
-    
-<b>Example</b>
-    
-   ```
-   Day 3\
-    Saksham\
-      program.py
-   ```  
+Upload your programs in Day 3 folder. <b>The name of your program should be</b> {name}{question no.}.py  <i>Eg: saksham_q1.py</i>
